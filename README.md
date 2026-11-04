@@ -54,5 +54,5 @@ docs/faq.md                  licence, models, self-hosting, pricing
 
 - Kortix on the web: https://kortix.com
 - Product docs: https://kortix.com/docs
-- Kortix on GitHub: https://github.com/kortix-ai/suna
+- Kortix on GitHub: https://github.com/kortix-ai/CompanyOS
 - The campaign site: https://n8n-alternative.com
